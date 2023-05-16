@@ -1,7 +1,9 @@
 Hello there,
 
 You can call me Diigo,
+<br>
 I'm a computer engineering student.
+<br>
 I'm also studying to be a fullstack developer before I finish college.
 
  <div>
