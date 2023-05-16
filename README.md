@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Rodrigo Gonçalves
+Hello there,
+
+You can call me Diigo,
+I'm a computer engineering student.
+I'm also studying to be a fullstack developer before I finish college.
 
  <div>
    <a href="https://github.com/diigo321">
